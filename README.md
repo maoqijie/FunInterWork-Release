@@ -1,2 +1,2 @@
 # FunInterWork-Release
-Release artifacts for FunInterWork (automated uploads).
+这是FunInterWork（群服互通）的Release发布仓库
